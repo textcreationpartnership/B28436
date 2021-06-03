@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal humbly offer'd to the Honourable House of Commons; for an additional tax to be paid upon regulating and licensing pawn-brokers; and all manner of persons driving trades or occupations, that have not served apprentiships, or be not free of some city or town corporate. Testimonials also for servants, ... to be licensed by the justices of peace, as retaylers of wine ...</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28436</idno><idno type="EEBO-CITATION">99885931</idno>
+  <idno type="VID">186285</idno>
+  <idno type="EEBO-PROQUEST">2248538468</idno>
+  
+            <idno type="STC">Wing P3705C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[85]</idno>
+            <idno type="STC">ESTC R225203</idno>
+            <idno type="PROQUEST">ocm99885931</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885931e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186285)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[82)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal humbly offer'd to the Honourable House of Commons; for an additional tax to be paid upon regulating and licensing pawn-brokers; and all manner of persons driving trades or occupations, that have not served apprentiships, or be not free of some city or town corporate. Testimonials also for servants, ... to be licensed by the justices of peace, as retaylers of wine ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Licenses --  Fees --  England --  Early works to 1800.</term>
+               <term type="topical_term">Pawnbroking --  Licenses --  Fees --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:186285:1"/>
+            <pb facs="tcp:186285:1"/>
+            <head>
+               <hi>A PROPOSAL Humbly offer'd to the Honourable House of Commons;</hi> For an Additional Tax to be paid upon Regulating and Licensing <hi>Pawn-Brokers;</hi> and all manner of Persons driving Trades or Occupations, that have not served Apprentiships,<note place="margin">See 14. <hi>Eliz.</hi> 5th.</note> or be not free of some City or Town Corporate.</head>
+            <head type="sub">Testimonials also for Servants,<note place="margin">Nigh 1000 Bayliffs and Followers depend on the Knt. Marshals Court.</note> Bayliffs, Serjeants, Apparetors and their Followers, and Retaylers of all manner of Liquors (except Wine) to be Licensed by the Justices of Peace, as Retaylers of Wine are Licensed by Commissioners: And for the due answering the same, as well as the Duties upon Pedlers, <hi>&amp;c.</hi> 'twill be without any Charge to His Majesty, and with little trouble to the Persons Licensed.</head>
+            <p>THat Blank Licenses may be dispersed by the Proposer, in Parchment, Vellum or Paper unstamp'd, throughout the Kingdom, and a Receipt thereon, to be Sold at two Pence Price, for each License with the Receipt.</p>
+            <p>
+               <note place="margin">Thus an e<g ref="char:EOLhyphen"/>qual and more profit will be to the Clerks, than Ale-House Li<g ref="char:EOLhyphen"/>cences are now.</note>That the Persons to be Licensed, may bring one of the said Licen<g ref="char:EOLhyphen"/>ses to some Justice of Peace, whose Clark may have three Pence for filling up the same.</p>
+            <p>That the same Licenses as filled up, may be carried to some of His Majesties Collectors<note n="*" place="margin">They come to every Market-Town each Month.</note> of His Duty of Excise, and upon paying the Duty to him, he may subscribe his Name to the Receipt, and put some Stamp upon it, to be Felony to counterseit: And may without a Stamp appoint a Deputy.</p>
+            <p>That the License so stamped, may be Registred by the Minister or Clerk of some Parish, who may Stamp the same, to shew it is Registred, and the Con<g ref="char:EOLhyphen"/>stable and Church-Wardens may transmit true Copies of the Registries, into the Exchequer, to be a Controll upon the Receivers or Collectors, to prevent fraud.</p>
+            <p>
+               <note place="margin">Apprentices above 16, to have their Indentures stamped, and they as well as the licens<g ref="char:EOLhyphen"/>ed, to seize those who wander with out License.</note>That all Servants whenthey depart from their Masters, Mistresles or Dames may have a Testimonial, under the hand of the Master, Mistress or Dame, of such Servants faithful and good Service and Deportment, to be Registred in the Parish, where the Master, Mistress or Dame reside or dwell; and a Duty of two Pence or more for each Testimonial, may be paid to some of the Collectors of the Excise of his Majesty, and true Capies of the Registry of such Testimonials, may be transmitted into the Exchequer, as aforesaid, to be a Check and Con<g ref="char:EOLhyphen"/>troll upon the Collectors: And whoever entertains any one to be his or her Servant without such Testimonial, may be without Remedy, in case of Damage done by any Servant so entertained.</p>
+            <p>The Proposer hath a Draught framed of a License and of an Acquittance, and a Model of a Stamp can procure, which cannot easily be counterfeited.</p>
+            <p>That no one out of Fair or Market, Buy Goods but of whom they know, or some one to Vouch; Nor Pawns for Reckonings of Strangers, without some Parish Officer be present, to prevent the Receiving or Buying stolen Goods.</p>
+            <p>
+               <hi>These Proposals by modest computation would raise</hi> 300000 <hi>l.</hi> per Annum, <hi>and hurt no body; for in each Parish there is a petty Chandlers Tippling Brandy-Shop,</hi> 600 <hi>in the late Reign were survey'd in one great Parish, and were to have such Pedlers Licenses Arbitrarly; one of which may be produc'd, if desir'd.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
